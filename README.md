@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayushman Misra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="coding" width="400" src="https://storage.googleapis.com/duckly-blog/2021/09/how-to-start.gif">
+"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushman-misraa&label=Profile%20views&color=0e75b6&style=flat" alt="ayushman-misraa" /> </p>
 
